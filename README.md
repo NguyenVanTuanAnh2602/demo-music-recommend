@@ -13,6 +13,8 @@ Project xây dựng hệ thống gợi ý bài hát dựa trên hành vi nghe nh
 
 ## 2. Bài toán
 
+Link data: https://drive.google.com/drive/folders/1aAEUu_g5CfyCXWRioWzRjRBahmyKcKus?usp=sharing
+
 ### Dữ liệu đầu vào
 
 File CSV với định dạng:
